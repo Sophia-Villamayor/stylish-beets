@@ -11,7 +11,7 @@ img {
 
 h1, h2 {
   color: #8f2440;
-  font-family: PT, sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 
 figcaption {
@@ -41,7 +41,7 @@ nav a:hover {
 }
 
 .albino {
-  font-family: "PT serif", serif;
+  font-family: "PT Serif", serif;
   font-size: .8rem;
   list-style-type: lower-greek;
 }
