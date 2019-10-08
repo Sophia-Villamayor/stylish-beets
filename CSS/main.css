@@ -39,3 +39,9 @@ nav a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
+
+.albino {
+  font-family: "PT serif", serif;
+  font-size: .8rem;
+  list-style-type: lower-greek;
+}
