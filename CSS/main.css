@@ -1,6 +1,7 @@
 html {
   background-color: #c9b5ab;
   font-family: PT, sans-serif;
+  font-weight: bold;
   line-height: 1.5;
 }
 
@@ -10,5 +11,20 @@ img {
 
 h1, h2 {
   color: #8f2440;
+  font-family: PT, sans-serif;
+}
+
+figcaption {
+  font-size: 1.125rem;
+  font-style: italic;
+  text-align: center;
+}
+
+nav {
   font-family: PT, serif;
+  font-size: .8rem;
+}
+
+nav ol {
+  list-style-type: none;
 }
