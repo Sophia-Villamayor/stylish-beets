@@ -17,6 +17,7 @@ h1, h2 {
 figcaption {
   font-size: 1.125rem;
   font-style: italic;
+  font-weight: normal;
   text-align: center;
 }
 
@@ -27,4 +28,14 @@ nav {
 
 nav ol {
   list-style-type: none;
+}
+
+nav a{
+  color: #8f2440;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #3f1622;
+  text-decoration: underline;
 }
